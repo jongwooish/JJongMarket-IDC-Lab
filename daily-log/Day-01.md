@@ -1,5 +1,7 @@
 # Day 01 - 2026.10.14 (수) 기획
 
+**한국어** | [English](../i18n/en/daily-log/Day-01.md) | [日本語](../i18n/ja/daily-log/Day-01.md) | [简体中文](../i18n/zh-CN/daily-log/Day-01.md) | [Español](../i18n/es/daily-log/Day-01.md) | [Français](../i18n/fr/daily-log/Day-01.md)
+
 ## 오늘 한 일
 
 - 현장실습 첫 외근으로 서초동 SK브로드밴드 IDC에 서버 설치하러 감

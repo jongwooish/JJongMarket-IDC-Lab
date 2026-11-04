@@ -1,5 +1,7 @@
 # 01. Basic Configuration
 
+**한국어** | [English](../i18n/en/Session/01-basic-configuration.md) | [日本語](../i18n/ja/Session/01-basic-configuration.md) | [简体中文](../i18n/zh-CN/Session/01-basic-configuration.md) | [Español](../i18n/es/Session/01-basic-configuration.md) | [Français](../i18n/fr/Session/01-basic-configuration.md)
+
 ### [ All Devices ]
 
 ```bash

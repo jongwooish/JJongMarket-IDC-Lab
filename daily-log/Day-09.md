@@ -1,5 +1,7 @@
 # Day 09 - 2026.10.26 (월) 쫑라이브, 모니터링, Ansible
 
+**한국어** | [English](../i18n/en/daily-log/Day-09.md) | [日本語](../i18n/ja/daily-log/Day-09.md) | [简体中文](../i18n/zh-CN/daily-log/Day-09.md) | [Español](../i18n/es/daily-log/Day-09.md) | [Français](../i18n/fr/daily-log/Day-09.md)
+
 ## 오늘 한 일
 
 - **쫑라이브**: 쇼호스트 "삐요"가 특가 상품을 소개하는 1분짜리 영상을 만들고, WEB1·WEB2에서 ffmpeg로 HLS 무한 반복 방송

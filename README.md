@@ -1,5 +1,7 @@
 # JJongMarket IDC Lab
 
+**한국어** | [English](README/README.en.md) | [日本語](README/README.ja.md) | [简体中文](README/README.zh-CN.md) | [Español](README/README.es.md) | [Français](README/README.fr.md)
+
 가상의 온라인 쇼핑몰 "쫑마켓"이 클라우드에서 IDC로 서버를 옮긴다는 설정으로, Debian VM 8대에 회사 인프라 하나를 처음부터 끝까지 구축한 프로젝트입니다.
 
 ![Debian](https://img.shields.io/badge/Debian-13.2-A81D33?logo=debian&logoColor=white)

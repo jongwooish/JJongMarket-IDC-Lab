@@ -1,5 +1,7 @@
 # 15. Streaming
 
+**한국어** | [English](../i18n/en/Session/15-streaming.md) | [日本語](../i18n/ja/Session/15-streaming.md) | [简体中文](../i18n/zh-CN/Session/15-streaming.md) | [Español](../i18n/es/Session/15-streaming.md) | [Français](../i18n/fr/Session/15-streaming.md)
+
 ### [ WEB1 ]
 
 ```bash

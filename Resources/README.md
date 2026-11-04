@@ -1,5 +1,7 @@
 # Resources
 
+**한국어** | [English](../i18n/en/Resources/README.md) | [日本語](../i18n/ja/Resources/README.md) | [简体中文](../i18n/zh-CN/Resources/README.md) | [Español](../i18n/es/Resources/README.md) | [Français](../i18n/fr/Resources/README.md)
+
 구축할 때 호스트 PC에서 각 VM으로 `scp` 하던 배포 묶음입니다. 노션 Resources 탭에 올려 두고 쓰던 파일과 같은 구성이고, 이 폴더에서 `scripts/make-resources.sh` 로 다시 만들 수 있습니다.
 
 | 파일 | 내용 | 쓰는 챕터 |

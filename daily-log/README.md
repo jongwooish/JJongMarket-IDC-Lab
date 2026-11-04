@@ -1,5 +1,7 @@
 # Daily Log
 
+**한국어** | [English](../i18n/en/daily-log/README.md) | [日本語](../i18n/ja/daily-log/README.md) | [简体中文](../i18n/zh-CN/daily-log/README.md) | [Español](../i18n/es/daily-log/README.md) | [Français](../i18n/fr/daily-log/README.md)
+
 매일 퇴근 전후로 진행한 내용을 남긴 기록입니다. 현장실습 중 자기계발 시간과 퇴근 후 시간을 썼습니다.
 
 | Day | 날짜 | 내용 |

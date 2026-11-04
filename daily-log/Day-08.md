@@ -1,5 +1,7 @@
 # Day 08 - 2026.10.23 (금) 쇼핑몰, 그리고 오류의 날
 
+**한국어** | [English](../i18n/en/daily-log/Day-08.md) | [日本語](../i18n/ja/daily-log/Day-08.md) | [简体中文](../i18n/zh-CN/daily-log/Day-08.md) | [Español](../i18n/es/daily-log/Day-08.md) | [Français](../i18n/fr/daily-log/Day-08.md)
+
 ## 오늘 한 일
 
 - 오전: 간단한 HTML 쇼핑몰(v1)을 올렸는데 CLIENT에서 한글이 전부 네모

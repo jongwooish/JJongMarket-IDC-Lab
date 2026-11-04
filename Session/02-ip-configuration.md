@@ -1,5 +1,7 @@
 # 02. IP Configuration
 
+**한국어** | [English](../i18n/en/Session/02-ip-configuration.md) | [日本語](../i18n/ja/Session/02-ip-configuration.md) | [简体中文](../i18n/zh-CN/Session/02-ip-configuration.md) | [Español](../i18n/es/Session/02-ip-configuration.md) | [Français](../i18n/fr/Session/02-ip-configuration.md)
+
 ### [ CLI Devices ]
 
 ```bash

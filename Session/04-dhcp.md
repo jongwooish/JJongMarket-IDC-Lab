@@ -1,5 +1,7 @@
 # 04. DHCP
 
+**한국어** | [English](../i18n/en/Session/04-dhcp.md) | [日本語](../i18n/ja/Session/04-dhcp.md) | [简体中文](../i18n/zh-CN/Session/04-dhcp.md) | [Español](../i18n/es/Session/04-dhcp.md) | [Français](../i18n/fr/Session/04-dhcp.md)
+
 ### [ MGMT ]
 
 ```bash

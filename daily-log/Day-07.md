@@ -1,5 +1,7 @@
 # Day 07 - 2026.10.22 (목) MariaDB, 백업, keepalived
 
+**한국어** | [English](../i18n/en/daily-log/Day-07.md) | [日本語](../i18n/ja/daily-log/Day-07.md) | [简体中文](../i18n/zh-CN/daily-log/Day-07.md) | [Español](../i18n/es/daily-log/Day-07.md) | [Français](../i18n/fr/daily-log/Day-07.md)
+
 ## 오늘 한 일
 
 - DB에 MariaDB, `bind-address = 10.10.20.10`, utf8mb4

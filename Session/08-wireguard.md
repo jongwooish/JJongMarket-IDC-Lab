@@ -1,5 +1,7 @@
 # 08. Wireguard
 
+**한국어** | [English](../i18n/en/Session/08-wireguard.md) | [日本語](../i18n/ja/Session/08-wireguard.md) | [简体中文](../i18n/zh-CN/Session/08-wireguard.md) | [Español](../i18n/es/Session/08-wireguard.md) | [Français](../i18n/fr/Session/08-wireguard.md)
+
 ### [ FW ]
 
 ```bash

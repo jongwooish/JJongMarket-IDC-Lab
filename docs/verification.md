@@ -1,5 +1,7 @@
 # Verification
 
+**한국어** | [English](../i18n/en/docs/verification.md) | [日本語](../i18n/ja/docs/verification.md) | [简体中文](../i18n/zh-CN/docs/verification.md) | [Español](../i18n/es/docs/verification.md) | [Français](../i18n/fr/docs/verification.md)
+
 Configuration을 처음부터 그대로 따라 했을 때 각 챕터가 실제로 어떻게 동작하는지, 그리고 그걸 눈으로 확인하는 방법을 정리했습니다.
 명령어 아래에는 정상일 때 나와야 하는 결과를 적었습니다. `[ MGMT ]` 의 ansible 명령은 `/etc/ansible` 에서 실행합니다.
 

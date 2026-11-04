@@ -1,5 +1,7 @@
 # Day 05 - 2026.10.20 (화) CA, DNS, VPN 교체
 
+**한국어** | [English](../i18n/en/daily-log/Day-05.md) | [日本語](../i18n/ja/daily-log/Day-05.md) | [简体中文](../i18n/zh-CN/daily-log/Day-05.md) | [Español](../i18n/es/daily-log/Day-05.md) | [Français](../i18n/fr/daily-log/Day-05.md)
+
 ## 오늘 한 일
 
 - MGMT에 사설 Root CA (`CA.pl -newca`), 모든 장비에 RootCA.crt 신뢰 등록

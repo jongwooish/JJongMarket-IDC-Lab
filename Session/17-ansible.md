@@ -1,5 +1,7 @@
 # 17. Ansible
 
+**한국어** | [English](../i18n/en/Session/17-ansible.md) | [日本語](../i18n/ja/Session/17-ansible.md) | [简体中文](../i18n/zh-CN/Session/17-ansible.md) | [Español](../i18n/es/Session/17-ansible.md) | [Français](../i18n/fr/Session/17-ansible.md)
+
 ### [ Host PC ] → [ MGMT ]
 
 `scripts/make-ansible-zip.sh` 로 만든 `jjong-idc-lab_Ansible.zip` 을 MGMT에 보냅니다 (NAT 어댑터 사용).

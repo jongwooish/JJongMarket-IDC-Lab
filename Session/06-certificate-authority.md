@@ -1,5 +1,7 @@
 # 06. Certificate Authority
 
+**한국어** | [English](../i18n/en/Session/06-certificate-authority.md) | [日本語](../i18n/ja/Session/06-certificate-authority.md) | [简体中文](../i18n/zh-CN/Session/06-certificate-authority.md) | [Español](../i18n/es/Session/06-certificate-authority.md) | [Français](../i18n/fr/Session/06-certificate-authority.md)
+
 ### [ MGMT ]
 
 ```bash

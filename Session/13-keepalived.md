@@ -1,5 +1,7 @@
 # 13. Keepalived
 
+**한국어** | [English](../i18n/en/Session/13-keepalived.md) | [日本語](../i18n/ja/Session/13-keepalived.md) | [简体中文](../i18n/zh-CN/Session/13-keepalived.md) | [Español](../i18n/es/Session/13-keepalived.md) | [Français](../i18n/fr/Session/13-keepalived.md)
+
 ### [ WEB1 ]
 
 ```bash

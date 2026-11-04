@@ -1,5 +1,7 @@
 # 12. Backup
 
+**한국어** | [English](../i18n/en/Session/12-backup.md) | [日本語](../i18n/ja/Session/12-backup.md) | [简体中文](../i18n/zh-CN/Session/12-backup.md) | [Español](../i18n/es/Session/12-backup.md) | [Français](../i18n/fr/Session/12-backup.md)
+
 ### [ DB ]
 
 ```bash

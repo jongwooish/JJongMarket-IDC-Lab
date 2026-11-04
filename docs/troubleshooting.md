@@ -1,5 +1,7 @@
 # Troubleshooting
 
+**한국어** | [English](../i18n/en/docs/troubleshooting.md) | [日本語](../i18n/ja/docs/troubleshooting.md) | [简体中文](../i18n/zh-CN/docs/troubleshooting.md) | [Español](../i18n/es/docs/troubleshooting.md) | [Français](../i18n/fr/docs/troubleshooting.md)
+
 직접 구축하면서 실제로 막혔던 것들입니다. 증상, 원인, 해결 순서로 적었고, 그때 찍어 둔 화면을 같이 붙였습니다.
 
 | # | 증상 | 챕터 |

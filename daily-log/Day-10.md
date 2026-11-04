@@ -1,5 +1,7 @@
 # Day 10 - 2026.10.27 (화) 정리, GitHub
 
+**한국어** | [English](../i18n/en/daily-log/Day-10.md) | [日本語](../i18n/ja/daily-log/Day-10.md) | [简体中文](../i18n/zh-CN/daily-log/Day-10.md) | [Español](../i18n/es/daily-log/Day-10.md) | [Français](../i18n/fr/daily-log/Day-10.md)
+
 ## 오늘 한 일
 
 - 노션에 정리한 README, Topology, Session, Verification, Resources를 GitHub 저장소로 옮김

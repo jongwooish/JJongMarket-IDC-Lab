@@ -1,5 +1,7 @@
 # Day 06 - 2026.10.21 (수) WireGuard, SSH CA, chrony
 
+**한국어** | [English](../i18n/en/daily-log/Day-06.md) | [日本語](../i18n/ja/daily-log/Day-06.md) | [简体中文](../i18n/zh-CN/daily-log/Day-06.md) | [Español](../i18n/es/daily-log/Day-06.md) | [Français](../i18n/fr/daily-log/Day-06.md)
+
 ## 오늘 한 일
 
 - FW에 wg0 (10.8.0.1), REMOTE는 `nmcli connection import` 로 터널 연결

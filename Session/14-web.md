@@ -1,5 +1,7 @@
 # 14. WEB
 
+**한국어** | [English](../i18n/en/Session/14-web.md) | [日本語](../i18n/ja/Session/14-web.md) | [简体中文](../i18n/zh-CN/Session/14-web.md) | [Español](../i18n/es/Session/14-web.md) | [Français](../i18n/fr/Session/14-web.md)
+
 ### [ MGMT ] 웹 인증서 발급
 
 ```bash

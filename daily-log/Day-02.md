@@ -1,5 +1,7 @@
 # Day 02 - 2026.10.15 (목) 설계
 
+**한국어** | [English](../i18n/en/daily-log/Day-02.md) | [日本語](../i18n/ja/daily-log/Day-02.md) | [简体中文](../i18n/zh-CN/daily-log/Day-02.md) | [Español](../i18n/es/daily-log/Day-02.md) | [Français](../i18n/fr/daily-log/Day-02.md)
+
 ## 오늘 한 일
 
 - 망을 용도별로 4개로 나눔: OUTSIDE / SERVER / DB / MGMT

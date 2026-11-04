@@ -1,5 +1,7 @@
 # Day 04 - 2026.10.19 (월) DHCP, nftables
 
+**한국어** | [English](../i18n/en/daily-log/Day-04.md) | [日本語](../i18n/ja/daily-log/Day-04.md) | [简体中文](../i18n/zh-CN/daily-log/Day-04.md) | [Español](../i18n/es/daily-log/Day-04.md) | [Français](../i18n/fr/daily-log/Day-04.md)
+
 ## 오늘 한 일
 
 - MGMT에 isc-dhcp-server, CLIENT가 10.10.30.100~150 받는 것 확인

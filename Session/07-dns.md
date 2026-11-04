@@ -1,5 +1,7 @@
 # 07. DNS
 
+**한국어** | [English](../i18n/en/Session/07-dns.md) | [日本語](../i18n/ja/Session/07-dns.md) | [简体中文](../i18n/zh-CN/Session/07-dns.md) | [Español](../i18n/es/Session/07-dns.md) | [Français](../i18n/fr/Session/07-dns.md)
+
 ### [ DNS ]
 
 ```bash

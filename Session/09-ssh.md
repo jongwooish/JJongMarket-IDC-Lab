@@ -1,5 +1,7 @@
 # 09. SSH
 
+**한국어** | [English](../i18n/en/Session/09-ssh.md) | [日本語](../i18n/ja/Session/09-ssh.md) | [简体中文](../i18n/zh-CN/Session/09-ssh.md) | [Español](../i18n/es/Session/09-ssh.md) | [Français](../i18n/fr/Session/09-ssh.md)
+
 ### [ FW ]
 
 ```bash

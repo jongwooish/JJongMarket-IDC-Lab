@@ -1,5 +1,7 @@
 # Day 03 - 2026.10.16 (금) VM 생성, IP, 포워딩
 
+**한국어** | [English](../i18n/en/daily-log/Day-03.md) | [日本語](../i18n/ja/daily-log/Day-03.md) | [简体中文](../i18n/zh-CN/daily-log/Day-03.md) | [Español](../i18n/es/daily-log/Day-03.md) | [Français](../i18n/fr/daily-log/Day-03.md)
+
 ## 오늘 한 일
 
 - VMware에 Host-only VMnet0~3 만들고 DHCP 끔 (VMnet0은 기본이 Bridged라 바꿔야 했음)
